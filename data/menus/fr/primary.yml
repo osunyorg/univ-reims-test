@@ -64,6 +64,13 @@ items:
   children: []
   path: "/programs"
   file: content/fr/programs/_index.html
+- title: Publications
+  target: "/publications/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/publications"
+  file: content/fr/publications/_index.html
 - title: Campus
   target: "/campus/"
   kind: page
@@ -71,4 +78,32 @@ items:
   children: []
   path: "/locations"
   file: content/fr/locations/_index.html
+- title: Publications
+  target: "/publications/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/publications"
+  file: content/fr/publications/_index.html
+- title: Publications
+  target: "/publications/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/publications"
+  file: content/fr/publications/_index.html
+- title: Publications
+  target: "/publications/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/publications"
+  file: content/fr/publications/_index.html
+- title: Publications
+  target: "/publications-1/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/publications"
+  file: content/fr/publications/_index.html
 
