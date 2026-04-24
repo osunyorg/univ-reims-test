@@ -15,22 +15,22 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/publications/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/"
+from = "/publications/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/index.html"
 to = "/publications-1/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/"
 
 [[redirects]]
-from = "/publications/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/"
+from = "/publications/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/index.html"
 to = "/publications-1/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/"
 
 [[redirects]]
-from = "/publications/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/"
+from = "/publications/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/index.html"
 to = "/publications-1/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/"
 
 [[redirects]]
-from = "/universite-de-reims-champagne-ardenne/"
+from = "/universite-de-reims-champagne-ardenne/index.html"
 to = "/ecoles/universite-de-reims-champagne-ardenne/"
 
 [[redirects]]
-from = "/publications/2017-sphingolipids-new-players-in-plant-defense/"
+from = "/publications/2017-sphingolipids-new-players-in-plant-defense/index.html"
 to = "/publications-1/2017-sphingolipids-new-players-in-plant-defense/"
 
