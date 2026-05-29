@@ -16,21 +16,789 @@ Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
 from = "/publications/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/index.html"
-to = "/publications-1/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/"
+to = "/publications-2/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/"
+
+[[redirects]]
+from = "/publications-1/2019-toward-a-sustainable-viticulture-improved-grapevine-productivity-and-tolerance-to-abiotic-and-biotic/index.html"
+to = "/publications-2/2019-toward-a-sustainable-viticulture-improved-grapevine-productivity-and-tolerance-to-abiotic-and-biotic/"
+
+[[redirects]]
+from = "/publications-1/2021-phytostilbenes-as-agrochemicals-biosynthesis-bioactivity-metabolic-engineering-and-biotechnology/index.html"
+to = "/publications-2/2021-phytostilbenes-as-agrochemicals-biosynthesis-bioactivity-metabolic-engineering-and-biotechnology/"
+
+[[redirects]]
+from = "/publications-1/2017-how-streptomyces-anulatus-primes-grapevine-defenses-to-cope-with-gray-mold-a-study-of-the-early-resp/index.html"
+to = "/publications-2/2017-how-streptomyces-anulatus-primes-grapevine-defenses-to-cope-with-gray-mold-a-study-of-the-early-resp/"
+
+[[redirects]]
+from = "/publications-1/2020-bacillus-subtilis-and-pseudomonas-fluorescens-trigger-common-and-distinct-systemic-immune-responses/index.html"
+to = "/publications-2/2020-bacillus-subtilis-and-pseudomonas-fluorescens-trigger-common-and-distinct-systemic-immune-responses/"
+
+[[redirects]]
+from = "/publications-1/2011-changes-in-carbohydrate-metabolism-in-plasmopara-viticola-infected-grapevine-leaves/index.html"
+to = "/publications-2/2011-changes-in-carbohydrate-metabolism-in-plasmopara-viticola-infected-grapevine-leaves/"
+
+[[redirects]]
+from = "/publications-1/2019-effect-of-water-and-heat-stresses-on-the-physiology-of-ugni-blanc-infected-by-neofusicoccum-parvum/index.html"
+to = "/publications-2/2019-effect-of-water-and-heat-stresses-on-the-physiology-of-ugni-blanc-infected-by-neofusicoccum-parvum/"
+
+[[redirects]]
+from = "/publications-1/2017-production-of-phytostilbenes-of-therapeutic-interest-by-grapevine-cell-systems-iii-international-sym/index.html"
+to = "/publications-2/2017-production-of-phytostilbenes-of-therapeutic-interest-by-grapevine-cell-systems-iii-international-sym/"
+
+[[redirects]]
+from = "/publications-1/2019-optimize-modulate-and-scale-up-resveratrol-and-resveratrol-dimers-bioproduction-in-vitis-labrusca-l/index.html"
+to = "/publications-2/2019-optimize-modulate-and-scale-up-resveratrol-and-resveratrol-dimers-bioproduction-in-vitis-labrusca-l/"
+
+[[redirects]]
+from = "/publications-1/2020-evaluating-the-combined-effect-of-a-systemic-phenylpyrrole-fungicide-and-the-plant-growth-promoting/index.html"
+to = "/publications-2/2020-evaluating-the-combined-effect-of-a-systemic-phenylpyrrole-fungicide-and-the-plant-growth-promoting/"
+
+[[redirects]]
+from = "/publications-1/2022-plasmopara-viticola-the-causal-agent-of-downy-mildew-of-grapevine-from-its-taxonomy-to-disease-manag/index.html"
+to = "/publications-2/2022-plasmopara-viticola-the-causal-agent-of-downy-mildew-of-grapevine-from-its-taxonomy-to-disease-manag/"
+
+[[redirects]]
+from = "/publications-1/2016-unravelling-induced-immune-response-in-grapevine-by-beneficial-bacteria-and-efficacy-of-isr-against/index.html"
+to = "/publications-2/2016-unravelling-induced-immune-response-in-grapevine-by-beneficial-bacteria-and-efficacy-of-isr-against/"
+
+[[redirects]]
+from = "/publications-1/2017-floraison-de-la-vigne-et-changement-climatique-impact-de-l-augmentation-de-la-temperature-sur-le-dev/index.html"
+to = "/publications-2/2017-floraison-de-la-vigne-et-changement-climatique-impact-de-l-augmentation-de-la-temperature-sur-le-dev/"
+
+[[redirects]]
+from = "/publications-1/2018-characterization-of-immunity-related-signaling-events-triggered-by-pseudomonas-aeruginosa-exudate-in/index.html"
+to = "/publications-2/2018-characterization-of-immunity-related-signaling-events-triggered-by-pseudomonas-aeruginosa-exudate-in/"
+
+[[redirects]]
+from = "/publications-1/2020-semipurified-rhamnolipid-mixes-protect-brassica-napus-against-leptosphaeria-maculans-early-infection/index.html"
+to = "/publications-2/2020-semipurified-rhamnolipid-mixes-protect-brassica-napus-against-leptosphaeria-maculans-early-infection/"
+
+[[redirects]]
+from = "/publications-1/2014-flowering-as-the-most-highly-sensitive-period-of-grapevine-vitis-vinifera-l-cv-mourvedre-to-the-botr/index.html"
+to = "/publications-2/2014-flowering-as-the-most-highly-sensitive-period-of-grapevine-vitis-vinifera-l-cv-mourvedre-to-the-botr/"
+
+[[redirects]]
+from = "/publications-1/2018-international-congress-on-grapevine-and-wine-sciences/index.html"
+to = "/publications-2/2018-international-congress-on-grapevine-and-wine-sciences/"
+
+[[redirects]]
+from = "/publications-1/2014-characterization-of-the-role-of-flagellin-in-the-innate-immunity-triggered-by-the-endophytic-pgpr-bu/index.html"
+to = "/publications-2/2014-characterization-of-the-role-of-flagellin-in-the-innate-immunity-triggered-by-the-endophytic-pgpr-bu/"
+
+[[redirects]]
+from = "/publications-1/2013-rvvs-2013/index.html"
+to = "/publications-2/2013-rvvs-2013/"
+
+[[redirects]]
+from = "/publications-1/2009-bacterial-rhamnolipids-are-novel-mamps-conferring-resistance-to-botrytis-cinerea-in-grapevine/index.html"
+to = "/publications-2/2009-bacterial-rhamnolipids-are-novel-mamps-conferring-resistance-to-botrytis-cinerea-in-grapevine/"
+
+[[redirects]]
+from = "/publications-1/2015-cold-response-in-grapevine-inflorescences-comparison-of-two-cultivars-with-contrasted-resistance-to/index.html"
+to = "/publications-2/2015-cold-response-in-grapevine-inflorescences-comparison-of-two-cultivars-with-contrasted-resistance-to/"
+
+[[redirects]]
+from = "/publications-1/2018-resveratrol-production-by-grapevine-cells-in-fed-batch-bioreactor-experiments-and-modelling/index.html"
+to = "/publications-2/2018-resveratrol-production-by-grapevine-cells-in-fed-batch-bioreactor-experiments-and-modelling/"
+
+[[redirects]]
+from = "/publications-1/2016-burkholderia-phytofirmans-psjn-confers-grapevine-resistance-against-botrytis-cinerea-via-a-direct-an/index.html"
+to = "/publications-2/2016-burkholderia-phytofirmans-psjn-confers-grapevine-resistance-against-botrytis-cinerea-via-a-direct-an/"
+
+[[redirects]]
+from = "/publications-1/2016-bases-moleculaires-de-la-perception-par-les-cellules-vegetales-de-deux-eliciteurs-amphiphiles-rhamno/index.html"
+to = "/publications-2/2016-bases-moleculaires-de-la-perception-par-les-cellules-vegetales-de-deux-eliciteurs-amphiphiles-rhamno/"
+
+[[redirects]]
+from = "/publications-1/2018-new-insights-in-the-bioproduction-of-monomeric-and-oligomeric-phytostilbenes-by-plant-cell-systems-f/index.html"
+to = "/publications-2/2018-new-insights-in-the-bioproduction-of-monomeric-and-oligomeric-phytostilbenes-by-plant-cell-systems-f/"
+
+[[redirects]]
+from = "/publications-1/2015-burkholderia-phytofirmans-psjn-reduces-impact-of-freezing-temperatures-on-photosynthesis-in-arabidop/index.html"
+to = "/publications-2/2015-burkholderia-phytofirmans-psjn-reduces-impact-of-freezing-temperatures-on-photosynthesis-in-arabidop/"
+
+[[redirects]]
+from = "/publications-1/2003-rift-structure-evolution-and-earthquakes-in-the-gulf-of-corinth-from-reflection-seismic-images/index.html"
+to = "/publications-2/2003-rift-structure-evolution-and-earthquakes-in-the-gulf-of-corinth-from-reflection-seismic-images/"
+
+[[redirects]]
+from = "/publications-1/2025-in-vivo-identification-and-spatial-distribution-of-crown-gall-disease-biomarkers-in-grapevine/index.html"
+to = "/publications-2/2025-in-vivo-identification-and-spatial-distribution-of-crown-gall-disease-biomarkers-in-grapevine/"
+
+[[redirects]]
+from = "/publications-1/2018-understand-the-potential-role-of-aureobasidium-pullulans-a-resident-microorganism-from-grapevine-to/index.html"
+to = "/publications-2/2018-understand-the-potential-role-of-aureobasidium-pullulans-a-resident-microorganism-from-grapevine-to/"
+
+[[redirects]]
+from = "/publications-1/2024-bacillus-velezensis-be2-controls-wheat-and-barley-diseases-by-direct-antagonism-and-induced-systemic/index.html"
+to = "/publications-2/2024-bacillus-velezensis-be2-controls-wheat-and-barley-diseases-by-direct-antagonism-and-induced-systemic/"
+
+[[redirects]]
+from = "/publications-1/2021-resveratrol-and-cyclodextrins-an-easy-alliance-applications-in-nanomedicine-green-chemistry-and-biot/index.html"
+to = "/publications-2/2021-resveratrol-and-cyclodextrins-an-easy-alliance-applications-in-nanomedicine-green-chemistry-and-biot/"
+
+[[redirects]]
+from = "/publications-1/2020-anthocyanins-multi-functional-natural-products-of-industrial-relevance-recent-biotechnological-advan/index.html"
+to = "/publications-2/2020-anthocyanins-multi-functional-natural-products-of-industrial-relevance-recent-biotechnological-advan/"
+
+[[redirects]]
+from = "/publications-1/2018-impacts-of-paraburkholderia-phytofirmans-strain-psjn-on-tomato-lycopersicon-esculentum-l-under-high/index.html"
+to = "/publications-2/2018-impacts-of-paraburkholderia-phytofirmans-strain-psjn-on-tomato-lycopersicon-esculentum-l-under-high/"
+
+[[redirects]]
+from = "/publications-1/2015-inflorescences-vs-leaves-a-distinct-modulation-of-carbon-metabolism-process-during-botrytis-infectio/index.html"
+to = "/publications-2/2015-inflorescences-vs-leaves-a-distinct-modulation-of-carbon-metabolism-process-during-botrytis-infectio/"
+
+[[redirects]]
+from = "/publications-1/2015-understand-grapevine-microbial-interactions-to-improve-grapevine-management/index.html"
+to = "/publications-2/2015-understand-grapevine-microbial-interactions-to-improve-grapevine-management/"
+
+[[redirects]]
+from = "/publications-1/2018-osmotic-stress-and-aba-affect-immune-response-and-susceptibility-of-grapevine-berries-to-gray-mold-b/index.html"
+to = "/publications-2/2018-osmotic-stress-and-aba-affect-immune-response-and-susceptibility-of-grapevine-berries-to-gray-mold-b/"
+
+[[redirects]]
+from = "/publications-1/2015-grapevine-responses-to-low-temperatures-in-grapevine-in-a-changing-environment/index.html"
+to = "/publications-2/2015-grapevine-responses-to-low-temperatures-in-grapevine-in-a-changing-environment/"
+
+[[redirects]]
+from = "/publications-1/2018-role-of-sphingolipids-in-plant-bacterium-interaction/index.html"
+to = "/publications-2/2018-role-of-sphingolipids-in-plant-bacterium-interaction/"
+
+[[redirects]]
+from = "/publications-1/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/index.html"
+to = "/publications-2/2022-plant-beneficial-bacteria-as-bioprotectants-against-wheat-and-barley-diseases/"
+
+[[redirects]]
+from = "/publications-1/2015-a-stereocontrolled-synthesis-of-the-hydrophobic-moiety-of-rhamnolipids/index.html"
+to = "/publications-2/2015-a-stereocontrolled-synthesis-of-the-hydrophobic-moiety-of-rhamnolipids/"
 
 [[redirects]]
 from = "/publications/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/index.html"
-to = "/publications-1/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/"
+to = "/publications-2/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/"
+
+[[redirects]]
+from = "/publications-1/2018-draft-genome-sequence-of-plant-growth-promoting-burkholderia-sp-strain-be12-isolated-from-the-rhizos/index.html"
+to = "/publications-2/2018-draft-genome-sequence-of-plant-growth-promoting-burkholderia-sp-strain-be12-isolated-from-the-rhizos/"
+
+[[redirects]]
+from = "/publications-1/2019-impact-of-paraburkholderia-phytofirmans-psjn-on-grapevine-phenolic-metabolism/index.html"
+to = "/publications-2/2019-impact-of-paraburkholderia-phytofirmans-psjn-on-grapevine-phenolic-metabolism/"
+
+[[redirects]]
+from = "/publications-1/2018-the-bacterial-glycolipids-rhamnolipids-trigger-induced-systemic-resistance-in-arabidopsis/index.html"
+to = "/publications-2/2018-the-bacterial-glycolipids-rhamnolipids-trigger-induced-systemic-resistance-in-arabidopsis/"
+
+[[redirects]]
+from = "/publications-1/2014-identification-and-characterization-of-the-grapevine-flagellin-receptor-vvfls2/index.html"
+to = "/publications-2/2014-identification-and-characterization-of-the-grapevine-flagellin-receptor-vvfls2/"
+
+[[redirects]]
+from = "/publications-1/2016-use-of-grapevine-cell-cultures-for-the-production-of-phytostilbenes-of-cosmetic-interest/index.html"
+to = "/publications-2/2016-use-of-grapevine-cell-cultures-for-the-production-of-phytostilbenes-of-cosmetic-interest/"
+
+[[redirects]]
+from = "/publications-1/2020-cultivar-and-wood-area-dependent-metabolomic-fingerprints-of-grapevine-infected-by-botryosphaeria-di/index.html"
+to = "/publications-2/2020-cultivar-and-wood-area-dependent-metabolomic-fingerprints-of-grapevine-infected-by-botryosphaeria-di/"
+
+[[redirects]]
+from = "/publications-1/2019-apoplastic-invasion-patterns-triggering-plant-immunity-plasma-membrane-sensing-at-the-frontline/index.html"
+to = "/publications-2/2019-apoplastic-invasion-patterns-triggering-plant-immunity-plasma-membrane-sensing-at-the-frontline/"
+
+[[redirects]]
+from = "/publications-1/2018-la-co-inoculation-du-ble-tendre-avec-un-champignon-mycorhizien-et-une-bacterie-pgpr-comme-moyen-de-l/index.html"
+to = "/publications-2/2018-la-co-inoculation-du-ble-tendre-avec-un-champignon-mycorhizien-et-une-bacterie-pgpr-comme-moyen-de-l/"
+
+[[redirects]]
+from = "/publications-1/2016-reproducing-botryosphaeria-dieback-foliar-symptoms-in-a-simple-model-system/index.html"
+to = "/publications-2/2016-reproducing-botryosphaeria-dieback-foliar-symptoms-in-a-simple-model-system/"
+
+[[redirects]]
+from = "/publications-1/2023-plant-associated-bacillus-velezensis-be2-reveals-a-promising-biocontrol-effect-against-net-blotch-di/index.html"
+to = "/publications-2/2023-plant-associated-bacillus-velezensis-be2-reveals-a-promising-biocontrol-effect-against-net-blotch-di/"
+
+[[redirects]]
+from = "/publications-1/2018-la-double-inoculation-du-ble-avec-un-champignon-mycorhizien-et-une-bacterie-pgpr-comme-moyen-de-lutt/index.html"
+to = "/publications-2/2018-la-double-inoculation-du-ble-avec-un-champignon-mycorhizien-et-une-bacterie-pgpr-comme-moyen-de-lutt/"
+
+[[redirects]]
+from = "/publications-1/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/index.html"
+to = "/publications-2/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/"
+
+[[redirects]]
+from = "/publications-1/2016-bioproduction-de-molecules-vegetales-d-interet-utilisation-de-racines-transformees-de-vigne-pour-l-e/index.html"
+to = "/publications-2/2016-bioproduction-de-molecules-vegetales-d-interet-utilisation-de-racines-transformees-de-vigne-pour-l-e/"
+
+[[redirects]]
+from = "/publications-1/2018-le-biocontrole-des-stress-biotiques-et-abiotiques-chez-le-ble-c-est-possible/index.html"
+to = "/publications-2/2018-le-biocontrole-des-stress-biotiques-et-abiotiques-chez-le-ble-c-est-possible/"
+
+[[redirects]]
+from = "/publications-1/2016-the-effects-of-grapevine-trunk-diseases-gtds-on-vine-physiology/index.html"
+to = "/publications-2/2016-the-effects-of-grapevine-trunk-diseases-gtds-on-vine-physiology/"
+
+[[redirects]]
+from = "/publications-1/2015-caracterisation-des-mecanismes-d-excretion-du-resveratrol-chez-la-vigne/index.html"
+to = "/publications-2/2015-caracterisation-des-mecanismes-d-excretion-du-resveratrol-chez-la-vigne/"
+
+[[redirects]]
+from = "/publications-1/2012-burkholderia-phytofirmans-psjn-acclimates-grapevine-to-cold-by-modulating-carbohydrate-metabolism/index.html"
+to = "/publications-2/2012-burkholderia-phytofirmans-psjn-acclimates-grapevine-to-cold-by-modulating-carbohydrate-metabolism/"
+
+[[redirects]]
+from = "/publications-1/2012-rhamnolipids-elicit-defense-responses-and-induce-disease-resistance-against-biotrophic-hemibiotrophi/index.html"
+to = "/publications-2/2012-rhamnolipids-elicit-defense-responses-and-induce-disease-resistance-against-biotrophic-hemibiotrophi/"
+
+[[redirects]]
+from = "/publications-1/2018-rhamnolipids-from-pseudomonas-aeruginosa-are-elicitors-triggering-brassica-napus-protection-against/index.html"
+to = "/publications-2/2018-rhamnolipids-from-pseudomonas-aeruginosa-are-elicitors-triggering-brassica-napus-protection-against/"
+
+[[redirects]]
+from = "/publications-1/2012-physiological-changes-in-green-stems-of-vitis-vinifera-l-cv-chardonnay-in-response-to-esca-proper-an/index.html"
+to = "/publications-2/2012-physiological-changes-in-green-stems-of-vitis-vinifera-l-cv-chardonnay-in-response-to-esca-proper-an/"
+
+[[redirects]]
+from = "/publications-1/2024-in-vivo-and-real-time-metabolic-profiling-of-plant-microbe-interactions-in-leaves-stems-and-roots-of/index.html"
+to = "/publications-2/2024-in-vivo-and-real-time-metabolic-profiling-of-plant-microbe-interactions-in-leaves-stems-and-roots-of/"
+
+[[redirects]]
+from = "/publications-1/2012-native-and-sulfated-oligoglucuronans-as-elicitors-of-defence-related-responses-inducing-protection-a/index.html"
+to = "/publications-2/2012-native-and-sulfated-oligoglucuronans-as-elicitors-of-defence-related-responses-inducing-protection-a/"
+
+[[redirects]]
+from = "/publications-1/2018-characterization-of-the-mechanism-of-action-of-protein-and-sugar-based-biocontrol-products-on-target/index.html"
+to = "/publications-2/2018-characterization-of-the-mechanism-of-action-of-protein-and-sugar-based-biocontrol-products-on-target/"
+
+[[redirects]]
+from = "/publications-1/2010-trehalose-and-plant-stress-responses-friend-or-foe/index.html"
+to = "/publications-2/2010-trehalose-and-plant-stress-responses-friend-or-foe/"
+
+[[redirects]]
+from = "/publications-1/2022-paraburkholderia-phytofirmans-psjn-delays-botrytis-cinerea-development-on-grapevine-inflorescences/index.html"
+to = "/publications-2/2022-paraburkholderia-phytofirmans-psjn-delays-botrytis-cinerea-development-on-grapevine-inflorescences/"
+
+[[redirects]]
+from = "/publications-1/2018-principaux-effets-de-l-arsenite-de-sodium-sur-la-physiologie-de-la-vigne/index.html"
+to = "/publications-2/2018-principaux-effets-de-l-arsenite-de-sodium-sur-la-physiologie-de-la-vigne/"
+
+[[redirects]]
+from = "/publications-1/2017-anti-cancer-activity-of-resveratrol-and-derivatives-produced-by-grapevine-cell-suspensions-in-a-14-l/index.html"
+to = "/publications-2/2017-anti-cancer-activity-of-resveratrol-and-derivatives-produced-by-grapevine-cell-suspensions-in-a-14-l/"
+
+[[redirects]]
+from = "/publications-1/2015-unravelling-the-intricate-networks-underlying-the-tripartite-interaction-between-grapevine-vitis-vin/index.html"
+to = "/publications-2/2015-unravelling-the-intricate-networks-underlying-the-tripartite-interaction-between-grapevine-vitis-vin/"
+
+[[redirects]]
+from = "/publications-1/2015-grapevine-trunk-diseases-setting-up-of-a-simplified-model-stydy-for-the-evaluation-of-new-control-st/index.html"
+to = "/publications-2/2015-grapevine-trunk-diseases-setting-up-of-a-simplified-model-stydy-for-the-evaluation-of-new-control-st/"
+
+[[redirects]]
+from = "/publications-1/2017-molecular-engineering-of-phytoalexins-in-plants-benefits-and-limitations-for-food-and-agriculture/index.html"
+to = "/publications-2/2017-molecular-engineering-of-phytoalexins-in-plants-benefits-and-limitations-for-food-and-agriculture/"
+
+[[redirects]]
+from = "/publications-1/2021-in-planta-activity-of-novel-copper-ii-based-formulations-to-inhibit-the-esca-associated-fungus-phaeo-1/index.html"
+to = "/publications-2/2021-in-planta-activity-of-novel-copper-ii-based-formulations-to-inhibit-the-esca-associated-fungus-phaeo-1/"
+
+[[redirects]]
+from = "/publications-1/2021-description-of-the-relationship-between-trunk-disease-expression-and-meteorological-conditions-irrig/index.html"
+to = "/publications-2/2021-description-of-the-relationship-between-trunk-disease-expression-and-meteorological-conditions-irrig/"
+
+[[redirects]]
+from = "/publications-1/2016-enhanced-stilbene-production-and-excretion-in-vitis-vinifera-cv-pinot-noir-hairy-root-cultures/index.html"
+to = "/publications-2/2016-enhanced-stilbene-production-and-excretion-in-vitis-vinifera-cv-pinot-noir-hairy-root-cultures/"
+
+[[redirects]]
+from = "/publications-1/2019-control-of-gray-mold-of-grapevine-using-beneficial-microorganisms-from-screening-to-mechanisms/index.html"
+to = "/publications-2/2019-control-of-gray-mold-of-grapevine-using-beneficial-microorganisms-from-screening-to-mechanisms/"
+
+[[redirects]]
+from = "/publications-1/2019-rhamnolipids-trigger-induced-systemic-resistance-against-botrytis-cinerea-in-arabidopsis-thaliana/index.html"
+to = "/publications-2/2019-rhamnolipids-trigger-induced-systemic-resistance-against-botrytis-cinerea-in-arabidopsis-thaliana/"
+
+[[redirects]]
+from = "/publications-1/2017-caracterisation-du-mode-d-excretion-du-resveratrol-par-des-suspensions-cellulaires-de-vigne/index.html"
+to = "/publications-2/2017-caracterisation-du-mode-d-excretion-du-resveratrol-par-des-suspensions-cellulaires-de-vigne/"
+
+[[redirects]]
+from = "/publications-1/2018-paraburkholderia-phytofirmans-strain-psjn-mitigates-the-influences-of-high-temperatures-on-tomato-ly/index.html"
+to = "/publications-2/2018-paraburkholderia-phytofirmans-strain-psjn-mitigates-the-influences-of-high-temperatures-on-tomato-ly/"
+
+[[redirects]]
+from = "/publications-1/2017-caracterisation-des-mecanismes-impliques-dans-la-perception-de-rhamnolipides-naturels-et-synthetique/index.html"
+to = "/publications-2/2017-caracterisation-des-mecanismes-impliques-dans-la-perception-de-rhamnolipides-naturels-et-synthetique/"
+
+[[redirects]]
+from = "/publications-1/2016-vacuum-infiltration-centrifugation-method-for-apoplastic-protein-extraction-in-grapevine/index.html"
+to = "/publications-2/2016-vacuum-infiltration-centrifugation-method-for-apoplastic-protein-extraction-in-grapevine/"
+
+[[redirects]]
+from = "/publications-1/2017-paraburkholderia-phytofirmans-psjn-a-special-beneficial-endophyte-from-roots-to-aerial-parts/index.html"
+to = "/publications-2/2017-paraburkholderia-phytofirmans-psjn-a-special-beneficial-endophyte-from-roots-to-aerial-parts/"
+
+[[redirects]]
+from = "/publications-1/2018-la-co-inoculation-du-ble-tendre-avec-un-champignon-mycorhizien-et-une-bacterie-pgpr-comme-moyen-de-l-1/index.html"
+to = "/publications-2/2018-la-co-inoculation-du-ble-tendre-avec-un-champignon-mycorhizien-et-une-bacterie-pgpr-comme-moyen-de-l-1/"
+
+[[redirects]]
+from = "/publications-1/2016-pratiques-agronomiques-innovantes-pour-reduire-l-utilisation-des-pesticides-actinovigne-reduction-de/index.html"
+to = "/publications-2/2016-pratiques-agronomiques-innovantes-pour-reduire-l-utilisation-des-pesticides-actinovigne-reduction-de/"
+
+[[redirects]]
+from = "/publications-1/2018-protection-du-ble-tendre-contre-l-oidium-grace-a-une-co-inoculation-avec-un-champignon-mycorhizien-e/index.html"
+to = "/publications-2/2018-protection-du-ble-tendre-contre-l-oidium-grace-a-une-co-inoculation-avec-un-champignon-mycorhizien-e/"
+
+[[redirects]]
+from = "/publications-1/2015-lutte-biologique-emploi-de-bacteries-actinomycetales-contre-les-maladies-en-viticulture/index.html"
+to = "/publications-2/2015-lutte-biologique-emploi-de-bacteries-actinomycetales-contre-les-maladies-en-viticulture/"
+
+[[redirects]]
+from = "/publications-1/2021-rhamnolipids-and-their-3-3-hydroxyalkanoyloxy-alkanoic-acid-precursors-activate-arabidopsis-innate-i/index.html"
+to = "/publications-2/2021-rhamnolipids-and-their-3-3-hydroxyalkanoyloxy-alkanoic-acid-precursors-activate-arabidopsis-innate-i/"
+
+[[redirects]]
+from = "/publications-1/2017-impact-of-burkholderia-phytofirmans-strain-psjn-on-tomato-lycopersicon-esculentum-l-under-high-tempe/index.html"
+to = "/publications-2/2017-impact-of-burkholderia-phytofirmans-strain-psjn-on-tomato-lycopersicon-esculentum-l-under-high-tempe/"
+
+[[redirects]]
+from = "/publications-1/2011-leaf-stripe-form-of-esca-induces-alteration-of-photosynthesis-and-defence-reactions-in-presymptomati/index.html"
+to = "/publications-2/2011-leaf-stripe-form-of-esca-induces-alteration-of-photosynthesis-and-defence-reactions-in-presymptomati/"
+
+[[redirects]]
+from = "/publications-1/2013-biocontrol-and-biofertilizer-activities-of-the-streptomyces-anulatus-s37-an-endophytic-actinomycete/index.html"
+to = "/publications-2/2013-biocontrol-and-biofertilizer-activities-of-the-streptomyces-anulatus-s37-an-endophytic-actinomycete/"
+
+[[redirects]]
+from = "/publications-1/2017-differential-interaction-of-synthetic-glycolipids-with-biomimetic-plasma-membrane-lipids-correlates/index.html"
+to = "/publications-2/2017-differential-interaction-of-synthetic-glycolipids-with-biomimetic-plasma-membrane-lipids-correlates/"
+
+[[redirects]]
+from = "/publications-1/2020-whole-cell-biocatalytic-enzymatic-and-green-chemistry-methods-for-the-production-of-resveratrol-and/index.html"
+to = "/publications-2/2020-whole-cell-biocatalytic-enzymatic-and-green-chemistry-methods-for-the-production-of-resveratrol-and/"
 
 [[redirects]]
 from = "/publications/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/index.html"
-to = "/publications-1/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/"
+to = "/publications-2/2016-an-assay-to-study-botrytis-cinerea-infected-grapevine-leaves-primed-with-pseudomonas-fluorescens/"
+
+[[redirects]]
+from = "/publications-1/2018-production-de-stilbenes-par-des-racines-transformees-de-vitis-vinifera-et-estimation-de-leur-capacit/index.html"
+to = "/publications-2/2018-production-de-stilbenes-par-des-racines-transformees-de-vitis-vinifera-et-estimation-de-leur-capacit/"
+
+[[redirects]]
+from = "/publications-1/2015-distinct-regulation-in-inflorescence-carbohydrate-metabolism-according-to-grapevine-cultivars-during/index.html"
+to = "/publications-2/2015-distinct-regulation-in-inflorescence-carbohydrate-metabolism-according-to-grapevine-cultivars-during/"
 
 [[redirects]]
 from = "/universite-de-reims-champagne-ardenne/index.html"
 to = "/ecoles/universite-de-reims-champagne-ardenne/"
 
 [[redirects]]
+from = "/publications-1/2022-biological-control-of-grapevine-crown-gall-disease-caused-by-allorhizobium-vitis-using-paraburkholde/index.html"
+to = "/publications-2/2022-biological-control-of-grapevine-crown-gall-disease-caused-by-allorhizobium-vitis-using-paraburkholde/"
+
+[[redirects]]
+from = "/publications-1/2018-engineering-stilbene-metabolic-pathways-in-microbial-cells/index.html"
+to = "/publications-2/2018-engineering-stilbene-metabolic-pathways-in-microbial-cells/"
+
+[[redirects]]
+from = "/publications-1/2017-anticancer-activity-of-resveratrol-and-related-hydroxystilbenes-bioproduced-by-grapevine-cell-system/index.html"
+to = "/publications-2/2017-anticancer-activity-of-resveratrol-and-related-hydroxystilbenes-bioproduced-by-grapevine-cell-system/"
+
+[[redirects]]
+from = "/publications-1/2018-le-biocontrole-des-maladies-chez-les-cereales-c-est-possible/index.html"
+to = "/publications-2/2018-le-biocontrole-des-maladies-chez-les-cereales-c-est-possible/"
+
+[[redirects]]
+from = "/publications-1/2017-variation-amongst-tempranillo-clones-in-susceptibility-to-neofusicoccum-parvum/index.html"
+to = "/publications-2/2017-variation-amongst-tempranillo-clones-in-susceptibility-to-neofusicoccum-parvum/"
+
+[[redirects]]
+from = "/publications-1/2019-biofilm-constructing-variants-of-paraburkholderia-phytofirmans-psjn-outcompete-the-wild-type-form-in/index.html"
+to = "/publications-2/2019-biofilm-constructing-variants-of-paraburkholderia-phytofirmans-psjn-outcompete-the-wild-type-form-in/"
+
+[[redirects]]
 from = "/publications/2017-sphingolipids-new-players-in-plant-defense/index.html"
-to = "/publications-1/2017-sphingolipids-new-players-in-plant-defense/"
+to = "/publications-2/2017-sphingolipids-new-players-in-plant-defense/"
+
+[[redirects]]
+from = "/publications-1/2018-lumiere-sur-nos-vignes/index.html"
+to = "/publications-2/2018-lumiere-sur-nos-vignes/"
+
+[[redirects]]
+from = "/publications-1/2019-strengthening-grapevine-resistance-by-pseudomonas-fluorescens-pta-ct2-relies-on-distinct-defense-pat/index.html"
+to = "/publications-2/2019-strengthening-grapevine-resistance-by-pseudomonas-fluorescens-pta-ct2-relies-on-distinct-defense-pat/"
+
+[[redirects]]
+from = "/publications-1/2019-les-rhamnolipides-induisent-une-resistance-systemique-a-botrytis-cinerea-chez-arabidopsis-thaliana/index.html"
+to = "/publications-2/2019-les-rhamnolipides-induisent-une-resistance-systemique-a-botrytis-cinerea-chez-arabidopsis-thaliana/"
+
+[[redirects]]
+from = "/publications-1/2022-the-role-of-microbial-metabolites-in-biological-control/index.html"
+to = "/publications-2/2022-the-role-of-microbial-metabolites-in-biological-control/"
+
+[[redirects]]
+from = "/publications-1/2007-effect-of-the-herbicide-flumioxazin-on-photosynthetic-performance-of-grapevine-vitis-vinifera-l/index.html"
+to = "/publications-2/2007-effect-of-the-herbicide-flumioxazin-on-photosynthetic-performance-of-grapevine-vitis-vinifera-l/"
+
+[[redirects]]
+from = "/publications-1/2015-cross-talk-between-environmental-stresses-and-plant-metabolism-during-reproductive-organ-abscission/index.html"
+to = "/publications-2/2015-cross-talk-between-environmental-stresses-and-plant-metabolism-during-reproductive-organ-abscission/"
+
+[[redirects]]
+from = "/publications-1/2017-effet-d-un-produit-a-base-d-extraits-de-plantes-et-d-oligoelements-vehicules-par-un-transporteur-pou/index.html"
+to = "/publications-2/2017-effet-d-un-produit-a-base-d-extraits-de-plantes-et-d-oligoelements-vehicules-par-un-transporteur-pou/"
+
+[[redirects]]
+from = "/publications-1/2015-use-of-grapevine-celle-cultures-as-a-tool-for-the-study-and-the-bioproduction-of-resveratrol-and-vin/index.html"
+to = "/publications-2/2015-use-of-grapevine-celle-cultures-as-a-tool-for-the-study-and-the-bioproduction-of-resveratrol-and-vin/"
+
+[[redirects]]
+from = "/publications-1/2016-beneficial-bacteria-prime-local-and-systemic-immunity-against-botrytis-cinerea-in-grapevine-in-bioco/index.html"
+to = "/publications-2/2016-beneficial-bacteria-prime-local-and-systemic-immunity-against-botrytis-cinerea-in-grapevine-in-bioco/"
+
+[[redirects]]
+from = "/publications-1/2016-grapevine-trunk-diseases-setting-up-of-a-simple-study-model-for-the-evaluation-of-new-control-strate/index.html"
+to = "/publications-2/2016-grapevine-trunk-diseases-setting-up-of-a-simple-study-model-for-the-evaluation-of-new-control-strate/"
+
+[[redirects]]
+from = "/publications-1/2019-genome-sequencing-and-traits-analysis-of-burkholderia-strains-reveal-a-promising-biocontrol-effect-a/index.html"
+to = "/publications-2/2019-genome-sequencing-and-traits-analysis-of-burkholderia-strains-reveal-a-promising-biocontrol-effect-a/"
+
+[[redirects]]
+from = "/publications-1/2018-grapevine-and-fungal-trunk-pathogens-interactions-and-the-global-impacts-of-climatic-events/index.html"
+to = "/publications-2/2018-grapevine-and-fungal-trunk-pathogens-interactions-and-the-global-impacts-of-climatic-events/"
+
+[[redirects]]
+from = "/publications-1/2016-bioproduction-du-resveratrol-et-de-ses-derives-par-culture-cellulaire-de-vigne/index.html"
+to = "/publications-2/2016-bioproduction-du-resveratrol-et-de-ses-derives-par-culture-cellulaire-de-vigne/"
+
+[[redirects]]
+from = "/publications-1/2018-analyse-de-risque-phytosanitaire-portant-sur-la-berce-du-caucase/index.html"
+to = "/publications-2/2018-analyse-de-risque-phytosanitaire-portant-sur-la-berce-du-caucase/"
+
+[[redirects]]
+from = "/publications-1/2018-projet-comycbac-co-inoculation-d-un-champignon-mychorizien-a-arbuscules-funneliformis-mosseae-avec-u/index.html"
+to = "/publications-2/2018-projet-comycbac-co-inoculation-d-un-champignon-mychorizien-a-arbuscules-funneliformis-mosseae-avec-u/"
+
+[[redirects]]
+from = "/publications-1/2015-phytoprotectors-of-grapevine-exploit-their-potential-to-protect-grapevine-phytopathologia-mediterran/index.html"
+to = "/publications-2/2015-phytoprotectors-of-grapevine-exploit-their-potential-to-protect-grapevine-phytopathologia-mediterran/"
+
+[[redirects]]
+from = "/publications-1/2022-a-strategy-to-build-a-unified-data-set-of-moment-magnitude-mw-estimates-for-low-to-moderate-seismici/index.html"
+to = "/publications-2/2022-a-strategy-to-build-a-unified-data-set-of-moment-magnitude-mw-estimates-for-low-to-moderate-seismici/"
+
+[[redirects]]
+from = "/publications-1/2016-bases-moleculaires-de-la-perception-par-les-cellules-vegetales-de-deux-eliciteurs-amphiphiles-rhamno-1/index.html"
+to = "/publications-2/2016-bases-moleculaires-de-la-perception-par-les-cellules-vegetales-de-deux-eliciteurs-amphiphiles-rhamno-1/"
+
+[[redirects]]
+from = "/publications-1/2018-paraburkholderia-phytofirmans-strain-psjn-a-promising-tool-to-help-grapevine-facing-both-biotic-and/index.html"
+to = "/publications-2/2018-paraburkholderia-phytofirmans-strain-psjn-a-promising-tool-to-help-grapevine-facing-both-biotic-and/"
+
+[[redirects]]
+from = "/publications-1/2018-projet-rhamnosol-influence-du-sol-sur-la-capacite-des-rhamnolipides-a-induire-une-resistance-systemi/index.html"
+to = "/publications-2/2018-projet-rhamnosol-influence-du-sol-sur-la-capacite-des-rhamnolipides-a-induire-une-resistance-systemi/"
+
+[[redirects]]
+from = "/publications-1/2017-beneficial-bacteria-improve-detoxification-of-secondary-metabolites-produced-by-botryosphaeriaceae-a/index.html"
+to = "/publications-2/2017-beneficial-bacteria-improve-detoxification-of-secondary-metabolites-produced-by-botryosphaeriaceae-a/"
+
+[[redirects]]
+from = "/publications-1/2010-determinants-of-fenhexamid-effectiveness-against-grey-mould-on-grapevine-respective-role-of-spray-ti/index.html"
+to = "/publications-2/2010-determinants-of-fenhexamid-effectiveness-against-grey-mould-on-grapevine-respective-role-of-spray-ti/"
+
+[[redirects]]
+from = "/publications-1/2015-pseudomonas-fluorescens-pta-ct2-triggers-local-and-systemic-immune-response-against-botrytis-cinerea/index.html"
+to = "/publications-2/2015-pseudomonas-fluorescens-pta-ct2-triggers-local-and-systemic-immune-response-against-botrytis-cinerea/"
+
+[[redirects]]
+from = "/publications-1/2019-how-paraburkholderia-phytofirmans-psjn-helps-vitis-vinifera-l-to-face-biotic-and-abiotic-stresses/index.html"
+to = "/publications-2/2019-how-paraburkholderia-phytofirmans-psjn-helps-vitis-vinifera-l-to-face-biotic-and-abiotic-stresses/"
+
+[[redirects]]
+from = "/publications-1/2017-different-arabidopsis-thaliana-photosynthetic-and-defense-responses-to-hemibiotrophic-pathogen-induc/index.html"
+to = "/publications-2/2017-different-arabidopsis-thaliana-photosynthetic-and-defense-responses-to-hemibiotrophic-pathogen-induc/"
+
+[[redirects]]
+from = "/publications-1/2018-paraburkholderia-phytofirmans-psjn-plants-interaction-from-perception-to-the-induced-mechanisms/index.html"
+to = "/publications-2/2018-paraburkholderia-phytofirmans-psjn-plants-interaction-from-perception-to-the-induced-mechanisms/"
+
+[[redirects]]
+from = "/publications-1/2014-the-grapevine-flagellin-receptor-vvfls2-differentially-recognizes-flagellin-derived-epitopes-from-th/index.html"
+to = "/publications-2/2014-the-grapevine-flagellin-receptor-vvfls2-differentially-recognizes-flagellin-derived-epitopes-from-th/"
+
+[[redirects]]
+from = "/publications-1/2020-biosurfactants-in-plant-protection-against-diseases-rhamnolipids-and-lipopeptides-case-study/index.html"
+to = "/publications-2/2020-biosurfactants-in-plant-protection-against-diseases-rhamnolipids-and-lipopeptides-case-study/"
+
+[[redirects]]
+from = "/publications-1/2018-floraison-de-la-vigne-et-changement-climatique-effet-de-l-augmentation-de-la-temperature-de-jour-sur/index.html"
+to = "/publications-2/2018-floraison-de-la-vigne-et-changement-climatique-effet-de-l-augmentation-de-la-temperature-de-jour-sur/"
+
+[[redirects]]
+from = "/publications-1/2015-plant-polysaccharides-initiate-underground-crosstalk-with-bacilli-by-inducing-synthesis-of-the-immun/index.html"
+to = "/publications-2/2015-plant-polysaccharides-initiate-underground-crosstalk-with-bacilli-by-inducing-synthesis-of-the-immun/"
+
+[[redirects]]
+from = "/publications-1/2015-effet-du-froid-sur-le-metabolisme-carbone-de-la-vigne-et-sur-son-developpement-floral/index.html"
+to = "/publications-2/2015-effet-du-froid-sur-le-metabolisme-carbone-de-la-vigne-et-sur-son-developpement-floral/"
+
+[[redirects]]
+from = "/publications-1/2013-large-scale-proteomic-analysis-of-the-grapevine-leaf-apoplastic-fluid-reveals-mainly-stress-related/index.html"
+to = "/publications-2/2013-large-scale-proteomic-analysis-of-the-grapevine-leaf-apoplastic-fluid-reveals-mainly-stress-related/"
+
+[[redirects]]
+from = "/publications-1/2018-saisine-relative-aux-strategies-de-lutte-contre-le-charancon-rouge-du-palmier/index.html"
+to = "/publications-2/2018-saisine-relative-aux-strategies-de-lutte-contre-le-charancon-rouge-du-palmier/"
+
+[[redirects]]
+from = "/publications-1/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/index.html"
+to = "/publications-2/2010-expression-analysis-in-grapevine-by-in-situ-hybridization-and-immunohistochemistry/"
+
+[[redirects]]
+from = "/publications-1/2019-the-role-of-sphingolipids-in-the-interaction-between-pseudomonas-syringae-and-arabidopsis-thaliana/index.html"
+to = "/publications-2/2019-the-role-of-sphingolipids-in-the-interaction-between-pseudomonas-syringae-and-arabidopsis-thaliana/"
+
+[[redirects]]
+from = "/publications-1/2017-alterations-in-grapevine-leaf-metabolism-occur-prior-to-esca-apoplexy-appearance/index.html"
+to = "/publications-2/2017-alterations-in-grapevine-leaf-metabolism-occur-prior-to-esca-apoplexy-appearance/"
+
+[[redirects]]
+from = "/publications-1/2015-modifications-of-sphingolipid-content-trigger-tolerance-to-botrytis-cinerea-by-modulating-plant-defe/index.html"
+to = "/publications-2/2015-modifications-of-sphingolipid-content-trigger-tolerance-to-botrytis-cinerea-by-modulating-plant-defe/"
+
+[[redirects]]
+from = "/publications-1/2004-flower-abscission-and-inflorescence-carbohydrates-in-sensitive-and-non-sensitive-cultivars-of-grapev/index.html"
+to = "/publications-2/2004-flower-abscission-and-inflorescence-carbohydrates-in-sensitive-and-non-sensitive-cultivars-of-grapev/"
+
+[[redirects]]
+from = "/publications-1/2016-changes-in-sphingolipid-content-differently-affect-plant-tolerance-to-necrotrophic-and-biotrophic-pa/index.html"
+to = "/publications-2/2016-changes-in-sphingolipid-content-differently-affect-plant-tolerance-to-necrotrophic-and-biotrophic-pa/"
+
+[[redirects]]
+from = "/publications-1/2008-inflorescence-photosynthate-allocation-of-chardonnay-grapevine-vitis-vinifera-l-fruiting-cuttings/index.html"
+to = "/publications-2/2008-inflorescence-photosynthate-allocation-of-chardonnay-grapevine-vitis-vinifera-l-fruiting-cuttings/"
+
+[[redirects]]
+from = "/publications-1/2011-inflorescence-of-grapevine-vitis-vinifera-l-a-high-ability-to-distribute-its-own-assimilates/index.html"
+to = "/publications-2/2011-inflorescence-of-grapevine-vitis-vinifera-l-a-high-ability-to-distribute-its-own-assimilates/"
+
+[[redirects]]
+from = "/publications-1/2020-lutte-biologique-contre-l-helminthosporiose-de-l-orge/index.html"
+to = "/publications-2/2020-lutte-biologique-contre-l-helminthosporiose-de-l-orge/"
+
+[[redirects]]
+from = "/publications-1/2019-bacillus-subtilispta-271-mediated-isr-in-arabidopsis-requires-a-primed-sa-dependent-camalexin-respon/index.html"
+to = "/publications-2/2019-bacillus-subtilispta-271-mediated-isr-in-arabidopsis-requires-a-primed-sa-dependent-camalexin-respon/"
+
+[[redirects]]
+from = "/publications-1/2016-insights-into-the-molecular-basis-of-rhamnolipid-and-surfactin-perception-by-plant-cells/index.html"
+to = "/publications-2/2016-insights-into-the-molecular-basis-of-rhamnolipid-and-surfactin-perception-by-plant-cells/"
+
+[[redirects]]
+from = "/publications-1/2019-transcriptomic-and-metabolomic-responses-of-the-nodulated-pea-root-system-during-rewatering/index.html"
+to = "/publications-2/2019-transcriptomic-and-metabolomic-responses-of-the-nodulated-pea-root-system-during-rewatering/"
+
+[[redirects]]
+from = "/publications-1/2016-spatio-temporal-responses-of-arabidopsis-leaves-inphotosynthetic-performance-and-metabolite-contents/index.html"
+to = "/publications-2/2016-spatio-temporal-responses-of-arabidopsis-leaves-inphotosynthetic-performance-and-metabolite-contents/"
+
+[[redirects]]
+from = "/publications-1/2017-defense-responses-in-grapevine-cv-mourvedre-after-inoculation-with-the-botryosphaeria-dieback-pathog/index.html"
+to = "/publications-2/2017-defense-responses-in-grapevine-cv-mourvedre-after-inoculation-with-the-botryosphaeria-dieback-pathog/"
+
+[[redirects]]
+from = "/publications-1/2019-on-a-cold-night-transcriptomics-of-grapevine-flower-unveils-signal-transduction-and-impacted-metabol/index.html"
+to = "/publications-2/2019-on-a-cold-night-transcriptomics-of-grapevine-flower-unveils-signal-transduction-and-impacted-metabol/"
+
+[[redirects]]
+from = "/publications-1/2019-characterization-of-the-mechanism-of-action-of-sugar-based-biocontrol-products-on-gray-mold-and-down/index.html"
+to = "/publications-2/2019-characterization-of-the-mechanism-of-action-of-sugar-based-biocontrol-products-on-gray-mold-and-down/"
+
+[[redirects]]
+from = "/publications-1/2019-modes-of-action-of-sugar-based-biocontrol-products-on-grapevine-diseases/index.html"
+to = "/publications-2/2019-modes-of-action-of-sugar-based-biocontrol-products-on-grapevine-diseases/"
+
+[[redirects]]
+from = "/publications-1/2018-developing-biotechnological-approaches-for-the-production-and-the-characterization-of-oligomeric-sti/index.html"
+to = "/publications-2/2018-developing-biotechnological-approaches-for-the-production-and-the-characterization-of-oligomeric-sti/"
+
+[[redirects]]
+from = "/publications-1/2015-nouvelles-alternatives-aux-pesticides-chimiques-elucidation-des-modes-d-action-d-eliciteurs-lipidiqu/index.html"
+to = "/publications-2/2015-nouvelles-alternatives-aux-pesticides-chimiques-elucidation-des-modes-d-action-d-eliciteurs-lipidiqu/"
+
+[[redirects]]
+from = "/publications-1/2014-purification-of-antibiotics-from-the-biocontrol-agent-streptomyces-anulatus-s37-by-centrifugal-parti/index.html"
+to = "/publications-2/2014-purification-of-antibiotics-from-the-biocontrol-agent-streptomyces-anulatus-s37-by-centrifugal-parti/"
+
+[[redirects]]
+from = "/publications-1/2017-sphingolipids-new-players-in-plant-defense/index.html"
+to = "/publications-2/2017-sphingolipids-new-players-in-plant-defense/"
+
+[[redirects]]
+from = "/publications-1/2009-13c-assimilation-and-partitioning-during-flower-development-of-chardonnay-grapevine-vitis-vinifera-l/index.html"
+to = "/publications-2/2009-13c-assimilation-and-partitioning-during-flower-development-of-chardonnay-grapevine-vitis-vinifera-l/"
+
+[[redirects]]
+from = "/publications-1/2023-use-of-elicitors-and-beneficial-bacteria-to-induce-and-prime-the-stilbene-phytoalexin-response-appli/index.html"
+to = "/publications-2/2023-use-of-elicitors-and-beneficial-bacteria-to-induce-and-prime-the-stilbene-phytoalexin-response-appli/"
+
+[[redirects]]
+from = "/publications-1/2020-the-mode-of-action-of-plant-associated-burkholderia-against-grey-mould-disease-in-grapevine-revealed/index.html"
+to = "/publications-2/2020-the-mode-of-action-of-plant-associated-burkholderia-against-grey-mould-disease-in-grapevine-revealed/"
+
+[[redirects]]
+from = "/publications-1/2015-modifications-of-sphingolipid-content-affect-tolerance-to-hemibiotrophic-and-necrotrophic-pathogens/index.html"
+to = "/publications-2/2015-modifications-of-sphingolipid-content-affect-tolerance-to-hemibiotrophic-and-necrotrophic-pathogens/"
+
+[[redirects]]
+from = "/publications-1/2023-production-of-high-molecular-ordered-stilbene-oligomers-for-the-study-of-their-biological-activity-t-1/index.html"
+to = "/publications-2/2023-production-of-high-molecular-ordered-stilbene-oligomers-for-the-study-of-their-biological-activity-t-1/"
+
+[[redirects]]
+from = "/publications-1/2016-recycling-mitsunobu-coupling-a-shortcut-for-troublesome-esterifications/index.html"
+to = "/publications-2/2016-recycling-mitsunobu-coupling-a-shortcut-for-troublesome-esterifications/"
+
+[[redirects]]
+from = "/publications-1/2014-differential-responses-of-three-grapevine-cultivars-to-botryosphaeria-dieback/index.html"
+to = "/publications-2/2014-differential-responses-of-three-grapevine-cultivars-to-botryosphaeria-dieback/"
+
+[[redirects]]
+from = "/publications-1/2012-how-plasmopara-viticola-is-able-to-alter-grapevine-leaf-physiology/index.html"
+to = "/publications-2/2012-how-plasmopara-viticola-is-able-to-alter-grapevine-leaf-physiology/"
+
+[[redirects]]
+from = "/publications-1/2019-bacillus-subtilis-pta-271-counteracts-botryosphaeria-dieback-in-grapevine-triggering-immune-response-1/index.html"
+to = "/publications-2/2019-bacillus-subtilis-pta-271-counteracts-botryosphaeria-dieback-in-grapevine-triggering-immune-response-1/"
+
+[[redirects]]
+from = "/publications-1/2016-taxonomy-physiology-and-natural-products-of-actinobacteria/index.html"
+to = "/publications-2/2016-taxonomy-physiology-and-natural-products-of-actinobacteria/"
+
+[[redirects]]
+from = "/publications-1/2015-cyclic-lipopeptides-from-bacillus-subtilis-activate-distinct-patterns-of-defence-responses-in-grapev/index.html"
+to = "/publications-2/2015-cyclic-lipopeptides-from-bacillus-subtilis-activate-distinct-patterns-of-defence-responses-in-grapev/"
+
+[[redirects]]
+from = "/publications-1/2013-caracterisation-du-mode-d-action-des-rhamnolipides-dans-la-defense-des-plantes-et-l-induction-d-une/index.html"
+to = "/publications-2/2013-caracterisation-du-mode-d-action-des-rhamnolipides-dans-la-defense-des-plantes-et-l-induction-d-une/"
+
+[[redirects]]
+from = "/publications-1/2017-deciphering-mechanisms-underlying-induced-systemic-resistance-in-grapevine-by-beneficial-bacteria-ag/index.html"
+to = "/publications-2/2017-deciphering-mechanisms-underlying-induced-systemic-resistance-in-grapevine-by-beneficial-bacteria-ag/"
+
+[[redirects]]
+from = "/publications-1/2014-proteomic-insights-into-changes-in-grapevine-wood-in-response-to-esca-proper-and-apoplexy/index.html"
+to = "/publications-2/2014-proteomic-insights-into-changes-in-grapevine-wood-in-response-to-esca-proper-and-apoplexy/"
+
+[[redirects]]
+from = "/publications-1/2016-13-c-nmr-and-lc-ms-profiling-of-stilbenes-from-elicited-grapevine-hairy-root-cultures/index.html"
+to = "/publications-2/2016-13-c-nmr-and-lc-ms-profiling-of-stilbenes-from-elicited-grapevine-hairy-root-cultures/"
+
+[[redirects]]
+from = "/publications-1/2018-grapevine-trunk-diseases-a-review-of-fifteen-years-of-trials-for-their-control-with-chemicals-and-bi/index.html"
+to = "/publications-2/2018-grapevine-trunk-diseases-a-review-of-fifteen-years-of-trials-for-their-control-with-chemicals-and-bi/"
+
+[[redirects]]
+from = "/publications-1/2019-a-rhamnolipid-precursor-triggers-induced-systemic-resistance-in-arabidopsis/index.html"
+to = "/publications-2/2019-a-rhamnolipid-precursor-triggers-induced-systemic-resistance-in-arabidopsis/"
+
+[[redirects]]
+from = "/publications-1/2021-advances-in-wheat-physiology-in-response-to-drought-and-the-role-of-plant-growth-promoting-rhizobact/index.html"
+to = "/publications-2/2021-advances-in-wheat-physiology-in-response-to-drought-and-the-role-of-plant-growth-promoting-rhizobact/"
+
+[[redirects]]
+from = "/publications-1/2021-bacterial-rhamnolipids-and-their-3-hydroxyalkanoate-precursors-activate-arabidopsis-innate-immunity/index.html"
+to = "/publications-2/2021-bacterial-rhamnolipids-and-their-3-hydroxyalkanoate-precursors-activate-arabidopsis-innate-immunity/"
+
+[[redirects]]
+from = "/publications-1/2015-drought-stress-tolerance-in-grapevine-involves-activation-of-polyamine-oxidation-contributing-to-imp/index.html"
+to = "/publications-2/2015-drought-stress-tolerance-in-grapevine-involves-activation-of-polyamine-oxidation-contributing-to-imp/"
+
+[[redirects]]
+from = "/publications-1/2015-cold-night-responses-in-grapevine-inflorescences/index.html"
+to = "/publications-2/2015-cold-night-responses-in-grapevine-inflorescences/"
+
+[[redirects]]
+from = "/publications-1/2016-effectiveness-of-postharvest-treatment-with-chitosan-to-control-citrus-green-mold/index.html"
+to = "/publications-2/2016-effectiveness-of-postharvest-treatment-with-chitosan-to-control-citrus-green-mold/"
+
+[[redirects]]
+from = "/publications-1/2016-burkholderia-phytofirmans-psjn-induced-resistance-in-grapevine-against-botrytis-cinerea-antimicrobia/index.html"
+to = "/publications-2/2016-burkholderia-phytofirmans-psjn-induced-resistance-in-grapevine-against-botrytis-cinerea-antimicrobia/"
+
+[[redirects]]
+from = "/publications-1/2012-expression-and-in-situ-localization-of-two-major-pr-proteins-of-grapevine-berries-during-development/index.html"
+to = "/publications-2/2012-expression-and-in-situ-localization-of-two-major-pr-proteins-of-grapevine-berries-during-development/"
+
+[[redirects]]
+from = "/publications-1/2017-sodium-arsenite-application-on-plants-expression-grapevine-trunk-diseases-foliar-symtpoms-impact-on/index.html"
+to = "/publications-2/2017-sodium-arsenite-application-on-plants-expression-grapevine-trunk-diseases-foliar-symtpoms-impact-on/"
+
+[[redirects]]
+from = "/publications-1/2019-regulation-of-resveratrol-biosynthesis-in-grapevine-new-approaches-for-disease-resistance/index.html"
+to = "/publications-2/2019-regulation-of-resveratrol-biosynthesis-in-grapevine-new-approaches-for-disease-resistance/"
+
+[[redirects]]
+from = "/publications-1/2016-changes-in-plant-metabolism-and-accumulation-of-fungal-metabolites-in-response-to-esca-proper-and-ap/index.html"
+to = "/publications-2/2016-changes-in-plant-metabolism-and-accumulation-of-fungal-metabolites-in-response-to-esca-proper-and-ap/"
+
+[[redirects]]
+from = "/publications-1/2017-synthetic-rhamnolipid-bolaforms-srbs-as-inducers-of-plant-innate-immunity/index.html"
+to = "/publications-2/2017-synthetic-rhamnolipid-bolaforms-srbs-as-inducers-of-plant-innate-immunity/"
+
+[[redirects]]
+from = "/publications-1/2017-secondary-metabolites-produced-by-neofusicoccum-parvum-differentially-contribute-to-the-trunk-diseas/index.html"
+to = "/publications-2/2017-secondary-metabolites-produced-by-neofusicoccum-parvum-differentially-contribute-to-the-trunk-diseas/"
+
+[[redirects]]
+from = "/publications-1/2023-procede-d-estimation-automatique-de-la-qualite-d-un-produit-agricole/index.html"
+to = "/publications-2/2023-procede-d-estimation-automatique-de-la-qualite-d-un-produit-agricole/"
+
+[[redirects]]
+from = "/publications-1/2018-protection-of-grapevine-against-biotic-and-abiotic-stresses-through-the-stimulation-of-plant-defence/index.html"
+to = "/publications-2/2018-protection-of-grapevine-against-biotic-and-abiotic-stresses-through-the-stimulation-of-plant-defence/"
+
+[[redirects]]
+from = "/publications-1/2017-activation-de-l-immunite-par-des-bacteries-benefiques-et-resistance-de-la-vigne-aux-agents-pathogene/index.html"
+to = "/publications-2/2017-activation-de-l-immunite-par-des-bacteries-benefiques-et-resistance-de-la-vigne-aux-agents-pathogene/"
+
+[[redirects]]
+from = "/publications-1/2019-bacillus-subtilis-pta-271-counteracts-botryosphaeria-dieback-in-grapevine-triggering-immune-response/index.html"
+to = "/publications-2/2019-bacillus-subtilis-pta-271-counteracts-botryosphaeria-dieback-in-grapevine-triggering-immune-response/"
+
+[[redirects]]
+from = "/publications-1/2016-modifications-physiologiques-et-metaboliques-induites-par-burkholderia-phytofirmans-chez-arabidopsis/index.html"
+to = "/publications-2/2016-modifications-physiologiques-et-metaboliques-induites-par-burkholderia-phytofirmans-chez-arabidopsis/"
+
+[[redirects]]
+from = "/publications-1/2017-does-flowering-influence-the-grapevine-defense-response-towards-botryosphaeriaceous-fungi-infection/index.html"
+to = "/publications-2/2017-does-flowering-influence-the-grapevine-defense-response-towards-botryosphaeriaceous-fungi-infection/"
+
+[[redirects]]
+from = "/publications-1/2017-how-beneficial-microorganisms-help-plants-to-cope-with-stress-focus-on-the-interaction-between-grape/index.html"
+to = "/publications-2/2017-how-beneficial-microorganisms-help-plants-to-cope-with-stress-focus-on-the-interaction-between-grape/"
+
+[[redirects]]
+from = "/publications-1/2019-sodium-arsenite-effect-on-vitis-vinifera-l-physiology/index.html"
+to = "/publications-2/2019-sodium-arsenite-effect-on-vitis-vinifera-l-physiology/"
+
+[[redirects]]
+from = "/publications-1/2018-synthetic-rhamnolipid-bolaforms-trigger-an-innate-immune-response-in-arabidopsis-thaliana/index.html"
+to = "/publications-2/2018-synthetic-rhamnolipid-bolaforms-trigger-an-innate-immune-response-in-arabidopsis-thaliana/"
+
+[[redirects]]
+from = "/publications-1/2005-proteomic-analysis-of-grapevine-vitis-vinifera-l-tissues-subjected-to-herbicide-stress/index.html"
+to = "/publications-2/2005-proteomic-analysis-of-grapevine-vitis-vinifera-l-tissues-subjected-to-herbicide-stress/"
+
+[[redirects]]
+from = "/publications-1/2017-cytotoxicity-of-labruscol-a-new-resveratrol-dimer-produced-by-grapevine-cell-suspensions-on-human-sk/index.html"
+to = "/publications-2/2017-cytotoxicity-of-labruscol-a-new-resveratrol-dimer-produced-by-grapevine-cell-suspensions-on-human-sk/"
+
+[[redirects]]
+from = "/publications-1/2009-ecophyto-r-d-vers-des-systemes-de-culture-economes-en-pesticides-volet-1-tome-iii-analyse-comparativ/index.html"
+to = "/publications-2/2009-ecophyto-r-d-vers-des-systemes-de-culture-economes-en-pesticides-volet-1-tome-iii-analyse-comparativ/"
 

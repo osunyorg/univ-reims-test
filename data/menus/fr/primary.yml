@@ -97,15 +97,6 @@ items:
     descendants_targets: []
     path: "/jobs"
     file: content/fr/jobs/_index.html
-  - title: Publications
-    slug: publications
-    target: "/publications-1/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/publications"
-    file: content/fr/publications/_index.html
   descendants_targets:
   - "/actualites/"
   - "/agenda/"
@@ -117,5 +108,4 @@ items:
   - "/organisations/"
   - "/personnes/"
   - "/projets/"
-  - "/publications-1/"
 
